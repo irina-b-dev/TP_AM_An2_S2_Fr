@@ -15,17 +15,17 @@ Quelques liens utiles:
  
 
  -	Composantes electroniques
-	 -		[Electronic components 101](https://components101.com/)
+	 -	[Electronic components 101](https://components101.com/)
   
-	 -		[Search engine for electronic components ](https://octopart.com/)
+	 -	[Search engine for electronic components ](https://octopart.com/)
 
-	 -		[Identification transisteurs](https://www.elprocus.com/easy-pin-identification/#:~:text=In%20NPN%20type%2C%20the%20pin,to%20the%20Tab%20is%20Collector.&text=To%20identify%20a%20Field%20Effect,in%20the%20anti%2Dclockwise%20direction.)
+	 -	[Identification transisteurs](https://www.elprocus.com/easy-pin-identification/#:~:text=In%20NPN%20type%2C%20the%20pin,to%20the%20Tab%20is%20Collector.&text=To%20identify%20a%20Field%20Effect,in%20the%20anti%2Dclockwise%20direction.)
 
 -	General (how computers work)
 	
-	-		[Memory Cell] (https://en.wikipedia.org/wiki/Memory_cell_%28computing%29)
-	Video 
-	-		[Diode/Semiconducteurs]	(https://www.youtube.com/watch?v=33vbFFFn04k&ab_channel=BenEater)
-	-		[Transiteur] (https://www.youtube.com/watch?v=DXvAlwMAxiA&ab_channel=BenEater)
-	-		[SR latch]	(https://www.youtube.com/watch?v=KM0DdEaY5sY&ab_channel=BenEater)
+	-	[Memory Cell](https://en.wikipedia.org/wiki/Memory_cell_%28computing%29)
+- Video 
+	-	[Diode/Semiconducteurs](https://www.youtube.com/watch?v=33vbFFFn04k&ab_channel=BenEater)
+	-	[Transiteur](https://www.youtube.com/watch?v=DXvAlwMAxiA&ab_channel=BenEater)
+	-	[SR latch](https://www.youtube.com/watch?v=KM0DdEaY5sY&ab_channel=BenEater)
 
